@@ -1,0 +1,1 @@
+# Devly Coding Standard
